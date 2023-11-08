@@ -11,6 +11,7 @@ Main focuses of this project-
   • Create a profile of the leads that are likely to convert. 
 
 
+
 The primary goal of this project was to work with tree-based algorithms like Decision Trees and Random Forests to solve data science problems. 
 
 Highlights: 
